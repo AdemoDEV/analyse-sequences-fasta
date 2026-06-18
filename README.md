@@ -7,7 +7,7 @@
 
 ## Description
 
-Projet réalisé dans le cadre du cours **INFO-F-105 — Langages de programmation 1** à l’Université Libre de Bruxelles.
+Projet réalisé dans le cadre du cours **Langages de programmation** à l’Université.
 
 Ce programme compare deux longues séquences de caractères contenues dans des fichiers **FASTA**.  
 Il détecte les substitutions entre les deux séquences et identifie les trois plus longues régions maximales sans substitutions.
